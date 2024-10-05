@@ -25,10 +25,10 @@ To launch a working MVP within three months.
 - As a user, I want to communicate with potential buyers/sellers to negotiate prices.
 
  **Acceptance Criteria**:
-User registration should be functional with email verification.
-Users must be able to list items with images and descriptions.
-The search feature should return relevant results based on user queries.
-The messaging system should allow users to communicate directly.
+- User registration should be functional with email verification.
+- Users must be able to list items with images and descriptions.
+- The search feature should return relevant results based on user queries.
+- The messaging system should allow users to communicate directly.
 
 - **Timeline**:
 - Week 1-2: Research and planning.
