@@ -22,4 +22,4 @@
 - Reach a transaction volume of $100,000 within 1 year.
 
 ## Unique Selling Proposition (USP)
-"GearZone offers a platform exclusively for tech professionals, ensuring quality and trust through user verification and item certification."
+- GearZone offers a platform exclusively for tech professionals, ensuring quality and trust through user verification and item certification.
