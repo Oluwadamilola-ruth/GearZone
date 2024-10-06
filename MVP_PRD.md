@@ -40,7 +40,7 @@ To launch a working MVP within three months.
 - The search feature should return relevant results based on user queries.
 - The messaging system should allow users to communicate directly.
 
-- **Timeline**:
+ **Timeline**:
 - Week 1-2: Research and planning.
 - Week 3-5: Development of core features.
 - Week 6-8: Testing and feedback collection.
