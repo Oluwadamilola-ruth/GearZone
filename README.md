@@ -1,5 +1,5 @@
-# GearZone
-**GearZone** is a peer-to-peer auction platform designed specifically for tech professionals. It allows developers, designers, engineers, and other tech enthusiasts to easily buy and sell tech-related items within their community.
+# TechZone
+**TechZone** is a peer-to-peer auction platform designed specifically for tech professionals. It allows developers, designers, engineers, and other tech enthusiasts to easily buy and sell tech-related items within their community.
 
 ### Product Strategy:
 - **Problem Statement**: Tech professionals need a fast, community-driven platform to buy and sell items before relocating or upgrading their gear. Existing platforms charge high fees or lack community trust.
