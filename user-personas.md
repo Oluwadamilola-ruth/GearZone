@@ -1,21 +1,6 @@
 # TechZone User Personas
 
-## Persona 1: DevSeller Dan
-- **Name**: Michael “DevSeller” Thompson
-- **Occupation**: Full-stack Developer
-- **Goals**:
-  - Sell used tech gadgets quickly before relocating for a new job.
-  - Ensure the items go to tech enthusiasts who appreciate their value.
-- **Pain Points**:
-  - Uncertainty about finding buyers quickly in niche communities.
-  - Doesn't want to deal with the hassle of payment processing.
-- **Preferred Features**:
-  - Easy item listing and auction management.
-  - Direct communication with buyers to negotiate and finalize the deal.
-- **Bio**:
-  Dan is a 32-year-old full-stack developer working for a remote tech startup. He's constantly upgrading his tech gear and often has high-quality second-hand items that he wants to sell before moving or upgrading again.
-
-## Persona 2: GadgetHunter Grace
+## Persona 1: GadgetHunter Grace
 - **Name**: Hannah “GadgetHunter” Chen
 - **Occupation**: Product Designer
 - **Goals**:
@@ -29,6 +14,17 @@ Buy from other professionals she can trust.
 Ratings or profiles to know who she’s buying from.
 - **Bio**:
 - Grace is a 27-year-old product designer at a digital agency.  She’s always on the lookout for affordable, second-hand tech equipment like graphics tablets and monitors for her design work.
+
+- ## Sarah – The Freelance Designer
+- **Name**: Sarah Morales
+-**Age:** 27
+-**Occupation**: Freelance UX/UI Designer
+- **Location**: Austin, TX
+- **Tech Skill**:Proficient in Figma, Sketch, Adobe Creative Suite
+- **Goals**:
+- To sell her old tech equipment (such as drawing tablets, monitors, and laptops) when upgrading.
+- To buy affordable second-hand tech items that are still in good condition to save costs.
+- To connect with other tech professionals and freelancers who may also be looking to sell or buy creative equipment.
 
 - ## Persona 3: StartupCEO Steve
 Name: Steve “StartupCEO” Wallace
