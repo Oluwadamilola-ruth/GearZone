@@ -1,4 +1,4 @@
-# Product Strategy for GearZone
+# Product Strategy for TechZone
 
 ## Vision Statement
 "To create a seamless and secure platform for tech professionals to buy and sell equipment efficiently."
