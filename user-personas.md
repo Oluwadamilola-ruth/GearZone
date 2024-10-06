@@ -37,13 +37,19 @@ Difficulty finding trusted sellers who properly maintain their tech equipment.
 - ## Persona 3: StartupCEO Steve
 Name: Steve “StartupCEO” Wallace
 - **Occupation**: Founder & CEO of a Tech Startup
-- **Goals**:
+
+- **Goals**: 
 - Purchase tech equipment for his startup’s team on a budget.
 - Sell company tech equipment when it’s no longer needed.
+  
 - **Pain Points**:
+  
 - Limited budget for buying new tech for his team.
 - Difficulty finding reliable second-hand sellers.
+  
 - **Preferred Features**:
 - A trusted marketplace where he can sell or buy equipment without worrying about scammers.
 - Ability to bulk-buy or sell items quickly.
-- **Bio**: Steve, a 35-year-old startup CEO, is bootstrapping his company and looking for ways to cut costs. He prefers buying pre-owned but reliable tech equipment for his employees.
+  
+- **Bio**:
+- Steve, a 35-year-old startup CEO, is bootstrapping his company and looking for ways to cut costs. He prefers buying pre-owned but reliable tech equipment for his employees.
