@@ -15,7 +15,7 @@ Ratings or profiles to know who she’s buying from.
 - **Bio**:
 - Grace is a 27-year-old product designer at a digital agency.  She’s always on the lookout for affordable, second-hand tech equipment like graphics tablets and monitors for her design work.
 
-- ## Sarah – The Freelance Designer
+- ## Persona 2: Sarah The Freelance Designer
 - **Name**: Sarah Morales
 - **Age:** 27
 - **Occupation**: Freelance UX/UI Designer
@@ -25,6 +25,14 @@ Ratings or profiles to know who she’s buying from.
 - To sell her old tech equipment (such as drawing tablets, monitors, and laptops) when upgrading.
 - To buy affordable second-hand tech items that are still in good condition to save costs.
 - To connect with other tech professionals and freelancers who may also be looking to sell or buy creative equipment.
+- **Challenges**:
+- As a freelancer, she doesn’t have a lot of disposable income to buy brand new equipment.
+- Finding reliable buyers or sellers on general marketplaces can be time-consuming and lead to untrustworthy interactions.
+- **Pain Point**:
+- Unreliable buyers on other platforms like Facebook Marketplace who cancel or fail to show up for pickups.
+- Expensive shipping options on platforms like eBay.
+Difficulty finding trusted sellers who properly maintain their tech equipment.
+
 
 - ## Persona 3: StartupCEO Steve
 Name: Steve “StartupCEO” Wallace
