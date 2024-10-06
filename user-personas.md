@@ -17,8 +17,8 @@ Ratings or profiles to know who she’s buying from.
 
 - ## Sarah – The Freelance Designer
 - **Name**: Sarah Morales
--**Age:** 27
--**Occupation**: Freelance UX/UI Designer
+- **Age:** 27
+- **Occupation**: Freelance UX/UI Designer
 - **Location**: Austin, TX
 - **Tech Skill**:Proficient in Figma, Sketch, Adobe Creative Suite
 - **Goals**:
