@@ -8,7 +8,8 @@ Tech professionals often struggle to find or sell niche gadgets, specialized too
  **Objectives**:
 - To create a user-friendly platform that facilitates easy listing and browsing of tech items.
 - To establish a trusted environment for transactions between users.
-To launch a working MVP within three months.
+- To launch a working MVP within three months.
+  
  **Target Audience**:
 - Primary Users: Tech professionals (developers, engineers, IT experts) who buy or sell high-end tech gadgets, tools, and equipment.
 - Secondary Users: Freelancers, startups, and tech enthusiasts looking for affordable tech accessories or equipment.
