@@ -12,6 +12,7 @@ To launch a working MVP within three months.
  **Target Audience**:
 - Primary Users: Tech professionals (developers, engineers, IT experts) who buy or sell high-end tech gadgets, tools, and equipment.
 - Secondary Users: Freelancers, startups, and tech enthusiasts looking for affordable tech accessories or equipment.
+  
   **User Personas**:
 - DevSeller Dan: A tech professional looking to sell items quickly.
 - GadgetHunter Grace: A buyer interested in affordable tech gear.
