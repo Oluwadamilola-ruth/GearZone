@@ -1,4 +1,4 @@
-# GearZone User Personas
+# TechZone User Personas
 
 ## Persona 1: DevSeller Dan
 - **Name**: Michael “DevSeller” Thompson
