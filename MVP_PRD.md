@@ -1,6 +1,6 @@
-- ## Title: GearZone MVP PRD
+- ## Title: TechZone MVP PRD
 **Overview**:
-- GearZone is a peer-to-peer auction platform designed for tech professionals to buy and sell used tech items efficiently. The platform connects sellers who need to quickly sell items before relocating with community members looking for affordable tech solutions.
+- TechZone is a peer-to-peer auction platform designed for tech professionals to buy and sell used tech items efficiently. The platform connects sellers who need to quickly sell items before relocating with community members looking for affordable tech solutions.
 
 **Objectives**:
 - To create a user-friendly platform that facilitates easy listing and browsing of tech items.
