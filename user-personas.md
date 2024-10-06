@@ -38,7 +38,8 @@ Name: Steve “StartupCEO” Wallace
 - Sell company tech equipment when it’s no longer needed.
 - **Pain Points**:
 - Limited budget for buying new tech for his team.
-- Difficulty finding reliable second-hand sellers.Preferred Features:
+- Difficulty finding reliable second-hand sellers.
+- **Preferred Features**:
 - A trusted marketplace where he can sell or buy equipment without worrying about scammers.
 - Ability to bulk-buy or sell items quickly.
 - **Bio**: Steve, a 35-year-old startup CEO, is bootstrapping his company and looking for ways to cut costs. He prefers buying pre-owned but reliable tech equipment for his employees.
